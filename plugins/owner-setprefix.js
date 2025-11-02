@@ -1,4 +1,4 @@
-/*// código creado por BrayanOFC no quitar creditos
+/*// código creado por Edward no quitar creditos
 let handler = async (m, { conn, args, usedPrefix }) => {
   let chat = global.db.data.chats[m.chat]
 
